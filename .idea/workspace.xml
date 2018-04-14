@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7b354e0-4c3c-432a-8e55-2d113c4c6233" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/commands/authenticate_user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/commands/authenticate_user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/json_web_token.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/json_web_token.rb" afterDir="false" />
-    </list>
+    <list default="true" id="d7b354e0-4c3c-432a-8e55-2d113c4c6233" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -337,12 +332,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523621795660</updated>
-      <workItem from="1523621800411" duration="11420000" />
+      <workItem from="1523621800411" duration="12021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11420000" />
+    <option name="totallyTimeSpent" value="12021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
